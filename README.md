@@ -38,7 +38,7 @@ The script uses the psutil library to retrieve network statistics and the curses
    ```shell
    cd WUM
    ```
-2.5 (Option) Install requirements:
+ 2.5 (Optional) Installation conditions:
    ```shell
    pip install -r requirements.txt
    ```
