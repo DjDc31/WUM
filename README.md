@@ -22,9 +22,9 @@ The script uses the psutil library to retrieve network statistics and the curses
 
 ## Prerequisites
 - Python 3.x installed on your computer [Python](https://www.python.org/downloads/)
-- psutil library installed, can be installed via:
+- psutil library installed and others can be installed after clone via:
    ```shell
-   pip install psutil
+   pip install -r requirements.txt
    ```
 
 ## How to Use 🧑‍💻
@@ -37,6 +37,10 @@ The script uses the psutil library to retrieve network statistics and the curses
 2. Navigate to the project directory:
    ```shell
    cd WUM
+   ```
+2.5 (Option) Install requirements:
+   ```shell
+   pip install -r requirements.txt
    ```
 
 3. Run the main script:
