@@ -10,7 +10,7 @@ The script is particularly useful for individuals working remotely and relying o
 
 The script uses the psutil library to retrieve network statistics and the curses library to create a text-based user interface. By running the script, you can see the data sent and received since Wi-Fi activation in gigabytes (GB).
 
-<img src="https://i.ibb.co/XLCKyJV/Capture-d-cran-2023-06-07-22-09-46.png" alt="How it works" />
+<img src="https://i.ibb.co/XLCKyJV/Capture-d-cran-2023-06-07-22-09-46.png" alt="How it works" width="300px"/>
 
 ## Features
 
