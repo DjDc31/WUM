@@ -1,0 +1,4 @@
+psutil
+windows-curses ; sys_platform == 'win32'  # Pour Windows uniquement
+pyfiglet
+git+https://github.com/sepandhaghighi/art
